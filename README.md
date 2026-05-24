@@ -1,2 +1,3 @@
 # calculadora-conversion-diamantes
-integrantes:ODALIS_BONILLA
+# integrantes
+ODALIS_BONILLA
